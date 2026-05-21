@@ -9,7 +9,9 @@ To write a python program to perform stop and wait protocol
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
+Cilent
 <img width="963" height="778" alt="image" src="https://github.com/user-attachments/assets/d2a965fc-1218-4699-b6f7-55f78c8a5832" />
+Server
 <img width="686" height="485" alt="image" src="https://github.com/user-attachments/assets/92db272b-fdc0-48ef-9d96-e495b20367f3" />
 
 ## OUTPUT
